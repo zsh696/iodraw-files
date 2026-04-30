@@ -1,0 +1,91 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6.1 Safari/605.1.15" version="24.7.17">
+  <diagram name="Page-1" id="NXQ28qkQX1VrrjC2qETq">
+    <mxGraphModel dx="794" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-1" value="脑机接口技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-3" value="运动脑机接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="43" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-4" value="情绪脑机接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="116" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-5" value="人工智能技术" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cYF7m5-cM80FRbQ-G3Yz-7" target="cYF7m5-cM80FRbQ-G3Yz-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-7" value="治疗音乐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="211" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-8" value="患者视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="274" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-10" value="上肢运动想象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-11" value="下肢运动想象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.7;dx=20;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="291" y="123" width="49" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="161" y="60" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="23" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-18" value="脑电与音乐在情绪维度的对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="336" y="200" width="88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-22" value="推荐个性化的治疗音乐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="291" y="254" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-25" value="上肢康复视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-26" value="下肢康复视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="304" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-27" value="人工智能生成治疗音乐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-30" value="通过运动想象任务加速运动功能的康复" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="12" width="130" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-31" value="通过脑电数据预测未来的康复效果" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="79" width="130" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cYF7m5-cM80FRbQ-G3Yz-32" target="cYF7m5-cM80FRbQ-G3Yz-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-32" value="识别患者情绪" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="118" width="79" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-35" value="调节患者情绪" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="481" y="118" width="79" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-36" value="评估运动功能&amp;amp;平衡功能" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475.5" y="240" width="90" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-37" value="给出康复建议" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475.5" y="304" width="90" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="630" y="33" width="50" height="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
