@@ -82,8 +82,8 @@
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-37" value="给出康复建议" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="475.5" y="304" width="90" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="123" width="50" height="100" as="geometry" />
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-38" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-185;" vertex="1" parent="1">
+          <mxGeometry x="680" y="123" width="40" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
