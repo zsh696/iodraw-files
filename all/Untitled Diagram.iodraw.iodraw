@@ -59,7 +59,10 @@
           <mxGeometry x="450" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="33" width="50" height="70" as="geometry" />
+          <mxGeometry x="291" y="254" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-25" value="上肢运动想象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="20" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
