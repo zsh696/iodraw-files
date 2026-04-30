@@ -32,10 +32,10 @@
           <mxGeometry x="340" y="80" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.7;dx=20;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="291" y="126" width="49" height="20" as="geometry" />
+          <mxGeometry x="291" y="123" width="49" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-13" value="识别患者情绪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="130" width="80" height="30" as="geometry" />
+          <mxGeometry x="340" y="119" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-14" value="调节患者情绪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="130" width="80" height="30" as="geometry" />
