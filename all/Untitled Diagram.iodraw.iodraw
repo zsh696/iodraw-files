@@ -67,8 +67,8 @@
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-26" value="下肢康复视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="341" y="304" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-27" value="推荐个性化的治疗音乐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="210" width="80" height="30" as="geometry" />
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-27" value="人工智能生成治疗音乐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
