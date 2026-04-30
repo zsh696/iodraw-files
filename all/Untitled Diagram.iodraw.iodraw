@@ -64,6 +64,9 @@
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-25" value="上肢康复视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="341" y="240" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-26" value="上肢康复视频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="304" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
