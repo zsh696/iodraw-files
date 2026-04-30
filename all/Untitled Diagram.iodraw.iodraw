@@ -37,9 +37,6 @@
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.7;dx=20;notch=0;" vertex="1" parent="1">
           <mxGeometry x="291" y="123" width="49" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-13" value="识别患者情绪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="160" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-15" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="161" y="60" width="50" height="70" as="geometry" />
         </mxCell>
@@ -82,7 +79,7 @@
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-32" value="识别患者情绪" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="341" y="118" width="79" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-35" value="识别患者情绪" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-35" value="调节患者情绪" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="481" y="118" width="79" height="31" as="geometry" />
         </mxCell>
       </root>
