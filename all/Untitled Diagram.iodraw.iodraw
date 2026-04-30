@@ -16,6 +16,9 @@
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-4" value="情绪脑机接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="130" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-5" value="脑机接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
