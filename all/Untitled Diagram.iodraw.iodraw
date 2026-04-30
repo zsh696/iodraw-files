@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6.1 Safari/605.1.15" version="24.7.17">
   <diagram name="Page-1" id="NXQ28qkQX1VrrjC2qETq">
-    <mxGraphModel dx="794" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,13 +26,13 @@
           <mxGeometry x="210" y="274" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-10" value="上肢运动想象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="-21" width="80" height="30" as="geometry" />
+          <mxGeometry x="340" y="10" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-11" value="下肢运动想象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="80" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.7;dx=20;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="291" y="136" width="49" height="20" as="geometry" />
+          <mxGeometry x="291" y="126" width="49" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-13" value="识别患者情绪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="130" width="80" height="30" as="geometry" />
