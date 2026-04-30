@@ -53,10 +53,10 @@
           <mxGeometry x="290" y="23" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-18" value="脑电与音乐在情绪维度的对齐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="200" width="110" height="30" as="geometry" />
+          <mxGeometry x="325" y="200" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-22" value="推荐个性化的治疗音乐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="200" width="110" height="30" as="geometry" />
+          <mxGeometry x="450" y="200" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
