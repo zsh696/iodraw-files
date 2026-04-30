@@ -76,8 +76,8 @@
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-29" value="给出康复建议" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="320" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-30" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="39" width="120" height="80" as="geometry" />
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-30" value="通过运动想象任务加速运动功能的康复" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="12" width="130" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
