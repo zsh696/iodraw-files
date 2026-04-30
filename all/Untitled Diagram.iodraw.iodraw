@@ -37,9 +37,6 @@
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.7;dx=20;notch=0;" vertex="1" parent="1">
           <mxGeometry x="291" y="123" width="49" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cYF7m5-cM80FRbQ-G3Yz-13" target="cYF7m5-cM80FRbQ-G3Yz-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-13" value="识别患者情绪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="160" width="80" height="30" as="geometry" />
         </mxCell>
@@ -83,7 +80,13 @@
           <mxGeometry x="500" y="79" width="130" height="31" as="geometry" />
         </mxCell>
         <mxCell id="cYF7m5-cM80FRbQ-G3Yz-32" value="识别患者情绪" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="341" y="118" width="130" height="31" as="geometry" />
+          <mxGeometry x="341" y="118" width="79" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="cYF7m5-cM80FRbQ-G3Yz-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="250" as="sourcePoint" />
+            <mxPoint x="430" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
